@@ -1,7 +1,6 @@
 # 🎮 **RPG Bot - Um Jogo de Aventura no Discord**
 
 ![Banner do Projeto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15K7gtB6JksmMHKe9gzixx-ODND3bS2kNDQ&s)  
-*(Substitua este link pela imagem do banner do seu projeto)*
 
 ---
 
@@ -30,8 +29,6 @@ Ao iniciar sua jornada, você precisará criar um personagem. Use o comando `/rp
 | 🔮 Mago      | Dano mágico poderoso              | Bola de Fogo, Cura Arcana       |
 | 🗡️ Ladino    | Ataques rápidos e críticos        | Ataque Furtivo, Envenenar       |
 
-![Escolha de Classe](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15K7gtB6JksmMHKe9gzixx-ODND3bS2kNDQ&s)  
-*(Substitua este link por uma captura de tela da tela de criação de personagem)*
 
 ---
 
@@ -55,8 +52,6 @@ Enfrente monstros poderosos usando o comando `/rpg combate`. Derrote inimigos co
 
 Ganhe XP, ouro e itens raros ao vencer batalhas!
 
-![Combate](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15K7gtB6JksmMHKe9gzixx-ODND3bS2kNDQ&s)  
-*(Substitua este link por uma captura de tela de uma batalha no jogo)*
 
 ---
 
@@ -76,8 +71,6 @@ Acesse o menu principal com `/rpg menu` para navegar rapidamente entre as opçõ
 - 🏰 Missões
 - ⚙️ Configurações
 
-![Menu Principal](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15K7gtB6JksmMHKe9gzixx-ODND3bS2kNDQ&s)  
-*(Substitua este link por uma captura de tela do menu principal)*
 
 ---
 
