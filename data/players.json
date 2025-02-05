@@ -1,0 +1,39 @@
+{
+    "1219787450583486500": {
+        "nome": null,
+        "level": 1,
+        "xp": 0,
+        "ouro": 100,
+        "inventario": {},
+        "skills": {
+            "minera\u00e7\u00e3o": 1,
+            "combate": 1,
+            "crafting": 1,
+            "alquimia": 1
+        },
+        "classe": "Guerreiro",
+        "atributos": {
+            "for\u00e7a": 5,
+            "agilidade": 5,
+            "intelig\u00eancia": 5,
+            "vitalidade": 5
+        },
+        "equipamentos": {
+            "arma": null,
+            "armadura": null,
+            "acess\u00f3rio": null
+        },
+        "talentos": {},
+        "pets": [],
+        "guild": null,
+        "quests": {
+            "ativas": {},
+            "completadas": []
+        },
+        "cooldowns": {},
+        "status_effects": [],
+        "hp": 100,
+        "dano": 25,
+        "mana": 0
+    }
+}
