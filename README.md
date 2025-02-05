@@ -1,3 +1,6 @@
+## ⚠️ ATENÇÃO: Bot em desenvolvimento, algumas funções podem nao funcionar ou crashar... Aguarde ara atualizações...
+
+
 # 🎮 **RPG Bot - Um Jogo de Aventura no Discord**
 
 ![Banner do Projeto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15K7gtB6JksmMHKe9gzixx-ODND3bS2kNDQ&s)  
